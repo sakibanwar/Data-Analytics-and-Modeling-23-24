@@ -1,0 +1,51 @@
+Employee_ID,Department,Years_of_Experience,Full_Time,Performance_Score,Salary,First_Name,Last_Name,Date_of_Birth,Gender,Education_Level,Location,Remote_Work,Hire_Date,Last_Performance_Review_Date,Project_Count,Bonus,Employee_Satisfaction_Score,Department_Budget,Training_Hours_Last_Year,Number_of_Direct_Reports
+1,Finance,1.82,False,Good,56550.0,Michael,Davis,2000-05-11 05:33:39,Other,Master's,"Glasgow, Scotland",True,2022-05-16 07:30:27,2022-10-08 07:30:27,5,0,2.68,75000,46,6
+2,IT,2.09,False,Poor,55225.0,Karen,Brown,1984-12-18 14:13:34,Other,High School,"London, England",False,2020-05-03 22:30:19,2020-08-15 22:30:19,6,500,1.99,100000,15,8
+3,IT,7.047227926078029,False,Excellent,87600.0,Joseph,Johnson,1991-07-29 11:32:58,Male,Master's,"Belfast, Northern Ireland",True,2017-02-25 23:43:54,2017-07-17 23:43:54,3,2000,2.42,50000,4,3
+4,Finance,1.2375085557837098,False,Excellent,53875.0,David,Garcia,1998-01-24 12:21:27,Other,High School,"Belfast, Northern Ireland",True,2022-12-18 10:59:47,2023-04-30 10:59:47,9,500,4.03,125000,34,3
+5,Marketing,4.16,True,Average,61400.0,Linda,Martinez,1973-06-05 08:09:32,Other,Bachelor's,"Manchester, England",True,2012-04-04 14:02:58,2013-01-12 14:02:58,5,500,1.06,75000,11,5
+6,Finance,2.4750171115674195,True,Excellent,70550.0,Michael,Brown,1973-03-07 10:44:36,Female,Master's,"Glasgow, Scotland",False,2021-09-22 12:23:53,2022-06-05 12:23:53,8,0,1.46,150000,24,2
+7,Marketing,10.42,True,Good,82050.0,Charles,Moore,1981-03-26 17:29:10,Male,Bachelor's,"Glasgow, Scotland",False,2011-08-25 03:34:26,2012-01-13 03:34:26,1,1500,1.18,75000,20,5
+8,Marketing,6.102669404517454,True,Good,84750.0,David,Lopez,1981-03-25 12:42:58,Female,High School,"Belfast, Northern Ireland",False,2018-02-05 19:31:10,2018-06-13 19:31:10,5,500,1.16,150000,35,6
+9,Marketing,10.0,True,Poor,80500.0,David,Johnson,1973-08-09 18:43:34,Female,Ph.D.,"Glasgow, Scotland",False,2012-09-29 19:05:03,2013-03-30 19:05:03,3,1000,4.42,100000,22,9
+10,HR,7.479808350444901,False,Average,101350.0,Patricia,Martinez,1967-11-27 08:26:50,Female,Master's,"Cardiff, Wales",True,2016-09-20 00:26:27,2017-05-01 00:26:27,1,1500,3.81,150000,15,9
+11,Finance,5.281314168377824,False,Poor,67925.0,Linda,Brown,1973-10-05 10:54:27,Female,High School,"Bristol, England",True,2018-12-02 04:17:44,2019-11-06 04:17:44,4,2000,2.9,125000,38,2
+12,IT,5.2265571526351815,True,Average,83650.0,John,Wilson,1979-06-11 22:44:55,Female,Ph.D.,"Edinburgh, Scotland",False,2018-12-22 18:46:56,2019-07-02 18:46:56,5,0,1.39,50000,44,6
+13,HR,11.126625598904859,True,Good,105750.0,Mary,Thomas,1988-04-26 08:15:19,Female,Ph.D.,"Newcastle, England",True,2013-01-27 01:28:07,2013-09-21 01:28:07,7,2000,2.97,150000,41,2
+14,IT,6.46,True,Excellent,69650.0,Barbara,Anderson,1980-07-14 16:57:38,Female,Bachelor's,"Birmingham, England",True,2011-08-07 08:49:03,2012-02-21 08:49:03,1,1500,2.89,150000,38,1
+15,Finance,11.783709787816564,True,Good,91175.0,Jennifer,Davis,1962-10-20 06:15:49,Male,High School,"Manchester, England",True,2012-06-01 10:10:46,2012-12-08 10:10:46,3,1500,1.69,50000,13,9
+16,IT,5.798767967145791,True,Average,74000.0,Mary,Wilson,1967-09-05 05:37:56,Other,Ph.D.,"Bristol, England",False,2018-05-27 14:44:33,2018-09-01 14:44:33,2,1500,2.74,125000,30,3
+17,IT,2.2614647501711156,False,Poor,63400.0,James,Davis,1990-03-19 14:51:03,Female,Master's,"Belfast, Northern Ireland",False,2021-12-09 02:13:59,2022-10-23 02:13:59,9,2000,2.59,75000,4,7
+18,HR,12.48,True,Poor,88200.0,Barbara,Thomas,1988-11-24 10:25:41,Female,Master's,"Newcastle, England",True,2011-09-15 10:03:44,2012-07-17 10:03:44,6,1500,3.46,150000,34,8
+19,HR,3.77,True,Excellent,60425.0,Barbara,Gonzalez,1960-02-08 17:06:09,Female,Bachelor's,"Glasgow, Scotland",False,2016-11-24 19:39:54,2017-10-23 19:39:54,3,2000,3.54,50000,22,6
+20,HR,1.8069815195071868,True,Excellent,65150.0,Thomas,Moore,1984-09-29 13:38:07,Female,Ph.D.,"Birmingham, England",False,2022-05-24 22:23:23,2022-11-04 22:23:23,8,1500,1.18,100000,28,0
+21,IT,2.757015742642026,False,Average,89775.0,Elizabeth,Anderson,1984-12-17 02:06:12,Female,High School,"Glasgow, Scotland",False,2021-06-11 05:20:49,2022-01-21 05:20:49,8,1000,2.5,50000,42,2
+22,IT,7.436002737850787,True,Poor,94425.0,Jessica,Gonzalez,1975-12-28 00:53:52,Female,Master's,"London, England",False,2016-10-06 06:47:50,2017-03-12 06:47:50,2,1500,3.5,100000,10,8
+23,Marketing,8.06,False,Excellent,75650.0,Joseph,Rodriguez,1975-03-13 07:24:41,Other,Ph.D.,"London, England",False,2015-08-23 09:21:34,2015-10-24 09:21:34,6,2000,3.01,125000,17,0
+24,Finance,13.880903490759753,True,Average,105075.0,Joseph,Anderson,1963-05-15 15:34:45,Other,Ph.D.,"Birmingham, England",True,2010-04-27 06:57:33,2010-11-18 06:57:33,7,500,4.43,75000,46,8
+25,Marketing,4.566735112936345,True,Excellent,79800.0,Charles,Gonzalez,1960-12-17 06:26:04,Female,Bachelor's,"Birmingham, England",False,2019-08-20 17:04:41,2019-10-10 17:04:41,2,1500,3.63,50000,11,7
+26,Finance,8.55,True,Excellent,75875.0,Barbara,Smith,1963-02-20 10:32:56,Other,Master's,"Belfast, Northern Ireland",True,2011-01-30 18:43:46,2011-10-24 18:43:46,2,500,1.65,150000,8,0
+27,HR,9.437371663244353,True,Good,81350.0,Karen,Miller,1999-08-21 01:53:52,Male,Master's,"Birmingham, England",True,2014-10-06 01:35:55,2015-04-11 01:35:55,1,1000,1.28,125000,9,5
+28,HR,5.13,False,Average,65325.0,John,Rodriguez,1963-05-16 13:19:22,Female,High School,"Cardiff, Wales",False,2016-10-19 06:32:47,2016-12-25 06:32:47,8,0,3.57,50000,43,4
+29,Finance,5.0513347022587265,False,Good,74725.0,Robert,Smith,1975-03-23 05:42:18,Male,Master's,"Glasgow, Scotland",True,2019-02-24 15:12:25,2019-11-10 15:12:25,1,1000,1.11,150000,16,5
+30,Finance,6.685831622176591,True,Excellent,74550.0,Charles,Lopez,1978-12-26 06:39:37,Male,High School,"Bristol, England",True,2017-07-07 01:08:08,2017-09-25 01:08:08,9,1500,3.34,50000,37,9
+31,IT,11.937029431895962,True,Good,104700.0,Michael,Davis,1966-05-08 18:18:39,Female,Master's,"Liverpool, England",True,2012-04-06 23:23:31,2013-01-24 23:23:31,6,500,4.76,100000,6,4
+32,Finance,2.08,False,Poor,56200.0,William,Hernandez,1999-10-05 14:08:27,Other,Bachelor's,"Birmingham, England",False,2014-01-13 22:31:23,2014-11-21 22:31:23,7,500,3.3,50000,45,5
+33,HR,3.65,False,Poor,61125.0,Michael,Jackson,1991-09-06 03:01:34,Male,Master's,"Manchester, England",False,2011-06-23 07:42:40,2011-08-18 07:42:40,7,2000,2.55,50000,12,4
+34,HR,1.5277207392197125,True,Poor,89475.0,Sarah,Taylor,1972-05-01 01:41:17,Female,High School,"London, England",True,2022-09-03 03:55:27,2023-05-16 03:55:27,3,500,3.57,50000,39,4
+35,Finance,1.894592744695414,True,Poor,87825.0,Patricia,Davis,1998-10-24 04:10:22,Male,High School,"Cardiff, Wales",False,2022-04-22 18:29:17,2023-02-22 18:29:17,2,2000,2.83,125000,41,3
+36,IT,7.27,False,Average,71675.0,Susan,Williams,1976-02-11 00:01:01,Male,Bachelor's,"Newcastle, England",False,2013-01-09 08:25:47,2013-11-20 08:25:47,9,0,3.18,50000,8,2
+37,IT,6.26694045174538,False,Poor,87650.0,Sarah,Williams,1987-03-05 20:06:10,Male,Master's,"Liverpool, England",False,2017-12-07 18:47:32,2018-04-12 18:47:32,8,1500,4.77,150000,49,2
+38,IT,10.740588637919233,False,Good,105550.0,William,Smith,1961-12-08 14:20:38,Male,Master's,"Bristol, England",False,2013-06-17 12:55:00,2014-04-26 12:55:00,7,2000,2.54,100000,26,3
+39,Finance,13.160848733744011,False,Good,96000.0,Mary,Jones,1972-07-29 22:52:47,Other,Bachelor's,"Liverpool, England",True,2011-01-15 14:30:55,2011-12-27 14:30:55,9,0,4.84,100000,1,8
+40,HR,11.64,True,Excellent,86100.0,Karen,Martinez,1966-04-28 01:29:38,Male,Master's,"Birmingham, England",True,2011-02-07 17:25:14,2012-01-06 17:25:14,4,500,4.62,50000,4,1
+41,Finance,1.12,True,Average,54800.0,Joseph,Miller,1974-08-21 02:00:18,Male,Master's,"Belfast, Northern Ireland",False,2018-09-02 21:32:38,2019-02-25 21:32:38,4,500,1.78,125000,28,8
+42,Marketing,2.083504449007529,False,Good,86200.0,Michael,Rodriguez,1984-07-16 03:16:22,Male,High School,"London, England",False,2022-02-12 16:40:40,2022-03-17 16:40:40,1,0,1.28,125000,36,0
+43,Marketing,10.269678302532512,True,Poor,96025.0,Barbara,Miller,1983-03-17 19:12:20,Other,Master's,"London, England",True,2013-12-06 04:51:52,2014-02-08 04:51:52,8,500,1.4,150000,37,0
+44,HR,2.28,False,Average,57700.0,Linda,Rodriguez,1968-11-07 17:34:30,Male,Master's,"Newcastle, England",True,2020-04-04 01:23:30,2020-11-11 01:23:30,3,0,1.07,50000,18,4
+45,Finance,11.189596167008897,True,Excellent,84375.0,Joseph,Davis,1961-10-21 09:42:41,Male,Bachelor's,"Belfast, Northern Ireland",False,2013-01-04 02:33:38,2013-03-23 02:33:38,7,2000,1.38,100000,7,5
+46,Finance,12.555783709787816,True,Good,92625.0,John,Lopez,1968-08-12 01:46:53,Other,Bachelor's,"Glasgow, Scotland",True,2011-08-24 19:40:07,2011-10-09 19:40:07,2,2000,3.73,125000,47,5
+47,IT,7.38,True,Average,73950.0,Susan,Johnson,1962-03-04 16:29:13,Other,Ph.D.,"Edinburgh, Scotland",False,2014-01-06 20:33:57,2014-07-26 20:33:57,2,0,1.28,50000,44,2
+48,IT,10.132785763175907,True,Excellent,95400.0,Thomas,Smith,1973-04-17 07:22:28,Other,High School,"Cardiff, Wales",False,2014-01-25 02:54:47,2014-10-01 02:54:47,7,2000,2.28,125000,0,6
+49,IT,5.72,True,Average,68800.0,Patricia,Thomas,1991-06-04 19:03:29,Male,Master's,"London, England",True,2011-09-27 19:18:56,2012-04-01 19:18:56,6,2000,4.38,125000,21,8
+50,IT,4.32,True,Good,62800.0,Sarah,Jones,1985-01-27 06:33:55,Other,Master's,"Manchester, England",True,2012-04-26 15:32:39,2012-07-10 15:32:39,3,2000,1.09,100000,16,9
